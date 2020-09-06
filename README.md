@@ -1,4 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://getheavy.com/wp-content/uploads/2019/12/spotify2019-830x350.jpg" height="200px" align="right"/>
+
+# Spotify Clone
+
+This project was designed to clone the Latest Spotify App <br />
+ [Checkout the demo](https://spotify-clone-abey.web.app/)
+
+
+
+## Contribute using one-click local setup
+
+You can use run this in your machine by following these steps:
+
+- clone the spotify-clone repo.
+- install the dependencies.
+- run `npm run start`.
+
+so that you can start coding straight away.
 
 ## Available Scripts
 
@@ -37,32 +54,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Contributors
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<a href="http://twitter.com/abeytweets"><img src="https://avatars0.githubusercontent.com/u/37014930?s=460&u=6ed362de0d85ab0ded270082444d2bf5f2f7931a&v=4" width="100px;" alt=""/><br /><sub><b>Abey Thomas</b></sub></a><br /><a href="#ideas-abeyThomas" title="Ideas, Planning, & Feedback">🤔</a>
